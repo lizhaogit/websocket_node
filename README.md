@@ -1,6 +1,17 @@
-# 聊天室后台服务项目
+# my-project
 
-#启动项目服务
+> Node+Express+WebSocket 的聊天室后台服务项目
+
+## Build Setup
+
+``` bash
+
+# 安装依赖
+npm install
+
+# 启动接口服务
 npm run dev
-#启动WebSocket服务
+
+# 启动ws服务
 npm run ws
+
